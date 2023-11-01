@@ -17,7 +17,7 @@
 </div>
 
 <h3>Olá!</h3>
-<p>Meu nome é Natasha Freitas, tenho 23 anos e moro em São Paulo/SP. Sou iniciante no mundo da programação e já sou apaixonada por frontend, que é a área em que pretendo seguir.</p>
+<p>Meu nome é Natasha Freitas, tenho 24 anos e moro em São Paulo/SP. Sou iniciante no mundo da programação e já sou apaixonada por frontend, que é a área em que pretendo seguir.</p>
 <p>Sou estudante de Análise e Desenvolvimento de Sistemas pela Faculdade das Américas (FAM), mas também faço outros cursos já que o meu foco é o frontend.</p>
 <p>Esse universo de programação é difícil, mas eu vou chegar lá!!</p>
 <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="gif animado">
